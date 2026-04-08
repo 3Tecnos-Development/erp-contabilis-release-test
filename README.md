@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">ERP Contabilis - Desenvolvimento</h1>
+<h1 align="center">ERP Contabilis - *Desenvolvimento*</h1>
 
 <div align="center">
 
